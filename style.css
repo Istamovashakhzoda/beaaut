@@ -1,0 +1,15 @@
+body {
+  height: 100vh;
+  margin: 0;
+  background-image: radial-gradient(circle farthest-corner, #060A33, #000000);
+  background-repeat: no-repeat;
+}
+
+.para {
+  text-align: center;
+  color: white;
+  font-size: 50px;
+  margin-top: 280px;
+}
+
+/*# sourceMappingURL=style.css.map */
